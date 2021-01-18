@@ -55,7 +55,7 @@
 		"redux-thunk": "^2.3.0",
 		"reselect": "^4.0.0",
 		"url-parser-lite": "^0.1.0",
-		"urlsafe-base64": "https://github.com/farhan687/urlsafe-base64.git"
+		"urlsafe-base64": "https://github.com/farhan687/urlsafe-base64/archive/v1.1.1.tar.gz"
 	},
 	"devDependencies": {
 		"clean-webpack-plugin": "^1.0.0",
